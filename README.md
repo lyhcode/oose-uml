@@ -36,6 +36,11 @@ Pet Clinic 是一家寵物診所，從 2009 年開始提供網站服務顧客。
 
 然而協助 Pet Clinic 開發網站系統的網路公司已經歇業，將由本公司負責接手維護並開發新功能。
 
+Domain Class Diagram
+
+![class diagram](http://yuml.me/c70824c1)
+
+
 #### Scenario (1) ####
 
 第一次專案成立會議記錄。
