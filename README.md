@@ -115,9 +115,10 @@ Pet Clinic 的網址是：http://petclinic-grails.appspot.com/
 2. 由專案團隊負責撰寫提案報告（proposal）。
 3. 瞭解並使用 MVC 開發框架。
 4. 訂定里程碑（milestone）。
-5. 使用 UML 製作系統分析與設計文件。
-6. 使用 Wireframe Tools 描繪系統雛型。
-7. 考慮所採用的開發技術等。（SEO, Web Services, Cloud, ...）
-8. 思考如何佈署？未來如何擴展（scale-out）？
+5. 版本控制（Version Control）的作法與 Issues Management。
+6. 使用 UML 製作系統分析與設計文件。
+7. 使用 Wireframe Tools 描繪系統雛型。
+8. 考慮所採用的開發技術等。（SEO, Web Services, Cloud, ...）
+9. 思考如何佈署？未來如何擴展（scale-out）？
 
 [astah]: http://astah.net/ "Astah"
