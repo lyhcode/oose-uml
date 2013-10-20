@@ -122,8 +122,9 @@ Pet Clinic 的網址是：http://petclinic-grails.appspot.com/
 4. 訂定里程碑（milestone）。
 5. 版本控制（Version Control）的作法與 Issues Management。
 6. 使用 UML 製作系統分析與設計文件。
-7. 使用 Wireframe Tools 描繪系統雛型。
-8. 考慮所採用的開發技術等。（SEO, Web Services, Cloud, ...）
-9. 思考如何佈署？未來如何擴展（scale-out）？
+7. 實務作法的流程設計（如第三方金流, OAuth, OpenID 驗證流程）
+8. 使用 Wireframe Tools 描繪系統雛型。
+9. 考慮所採用的開發技術等。（SEO, Web Services, Cloud, ...）
+10. 思考如何佈署？未來如何擴展（scale-out）？
 
 [astah]: http://astah.net/ "Astah"
